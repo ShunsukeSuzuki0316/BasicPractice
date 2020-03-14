@@ -19,10 +19,6 @@ namespace BasicPractice
             practice = new Practice01();
             practice.OutputImage();
             practice.Solve();
-
-            practice = new Practice10();
-            practice.OutputImage();
-            practice.Solve();
         }
     }
 }
