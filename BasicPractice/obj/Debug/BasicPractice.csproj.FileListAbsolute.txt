@@ -1,0 +1,5 @@
+C:\Users\suesa\Desktop\Work\自社関連\石川さん研修\BasicPractice\BasicPractice\bin\Debug\BasicPractice.exe
+C:\Users\suesa\Desktop\Work\自社関連\石川さん研修\BasicPractice\BasicPractice\bin\Debug\BasicPractice.pdb
+C:\Users\suesa\Desktop\Work\自社関連\石川さん研修\BasicPractice\BasicPractice\obj\Debug\BasicPractice.csprojAssemblyReference.cache
+C:\Users\suesa\Desktop\Work\自社関連\石川さん研修\BasicPractice\BasicPractice\obj\Debug\BasicPractice.exe
+C:\Users\suesa\Desktop\Work\自社関連\石川さん研修\BasicPractice\BasicPractice\obj\Debug\BasicPractice.pdb
